@@ -3,7 +3,7 @@
  
 ## :iphone: Screenshots
  <p align="center">
-  <img alt="InstaDog" src=".github/InstaDog.jpeg" width="20%">
+  <img alt="InstaDog" src="InstaDog/.github/InstaDog.jpeg" width="20%">
 </p>
  
 ## 💻 Projeto
