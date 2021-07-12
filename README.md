@@ -1,6 +1,5 @@
-## :scroll: Lista de Leitura
- Organize os livros que deseja ler e que já leu de forma prática!
- 
+## :dog: InstaDog
+ Mostre pro mundo o quão lindo é seu dogginho 
 ## :iphone: Screenshots
  <p align="center">
   
