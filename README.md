@@ -1,10 +1,10 @@
 ## :dog: InstaDog
  Mostre pro mundo o quão lindo é seu dogginho 
+ 
 ## :iphone: Screenshots
  <p align="center">
-  
+  <img alt="InstaDog" src=".github/InstaDog.jpeg" width="20%">
 </p>
-
  
 ## 💻 Projeto
 
